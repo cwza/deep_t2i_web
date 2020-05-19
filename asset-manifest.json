@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.124c0dee.chunk.js",
-    "main.js.map": "/static/js/main.124c0dee.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4938474e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4938474e.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.bb3f707b.chunk.js": "/static/js/2.bb3f707b.chunk.js",
-    "static/js/2.bb3f707b.chunk.js.map": "/static/js/2.bb3f707b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dcb0db906d0c1fa99c488717f1901d70.js": "/precache-manifest.dcb0db906d0c1fa99c488717f1901d70.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.bb3f707b.chunk.js.LICENSE.txt": "/static/js/2.bb3f707b.chunk.js.LICENSE.txt",
-    "static/media/loading.svg": "/static/media/loading.c25f5003.svg"
+    "main.css": "/deep_t2i_server/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/deep_t2i_server/static/js/main.c0b46d8c.chunk.js",
+    "main.js.map": "/deep_t2i_server/static/js/main.c0b46d8c.chunk.js.map",
+    "runtime-main.js": "/deep_t2i_server/static/js/runtime-main.f5bb5220.js",
+    "runtime-main.js.map": "/deep_t2i_server/static/js/runtime-main.f5bb5220.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/deep_t2i_server/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bb3f707b.chunk.js": "/deep_t2i_server/static/js/2.bb3f707b.chunk.js",
+    "static/js/2.bb3f707b.chunk.js.map": "/deep_t2i_server/static/js/2.bb3f707b.chunk.js.map",
+    "index.html": "/deep_t2i_server/index.html",
+    "precache-manifest.24ee6150ed358ece0f78abd89733e749.js": "/deep_t2i_server/precache-manifest.24ee6150ed358ece0f78abd89733e749.js",
+    "service-worker.js": "/deep_t2i_server/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/deep_t2i_server/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/deep_t2i_server/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bb3f707b.chunk.js.LICENSE.txt": "/deep_t2i_server/static/js/2.bb3f707b.chunk.js.LICENSE.txt",
+    "static/media/loading.svg": "/deep_t2i_server/static/media/loading.c25f5003.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4938474e.js",
+    "static/js/runtime-main.f5bb5220.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.bb3f707b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.124c0dee.chunk.js"
+    "static/js/main.c0b46d8c.chunk.js"
   ]
 }
