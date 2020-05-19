@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0f9148936f84dfa063eea71507b0857",
+    "revision": "99b600f3da289df8352f253bd5a198a6",
     "url": "/deep_t2i_web/index.html"
   },
   {
