@@ -41,7 +41,7 @@ const Core = ({mode, cap}) => {
   const recaptchaRef = useRef(null)
   const [token, setToken] = useState(null)
   const [res, setRes] = useState({state: 'init', url: "", errorMsg: ""})
-  const isBtnDisabled = () => checkRecaptcha==='true' && token===null
+  const isBtnDisabled = () => checkRecaptcha==='true' && (token===null || res.state===ResState.loading)
   const handleSubmit = () => {
     setRes({...res, state: ResState.loading})
     getImg(token, mode, cap)
