@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/deep_t2i_web/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/deep_t2i_web/static/js/main.642fb4d9.chunk.js",
-    "main.js.map": "/deep_t2i_web/static/js/main.642fb4d9.chunk.js.map",
+    "main.js": "/deep_t2i_web/static/js/main.b28b2d3c.chunk.js",
+    "main.js.map": "/deep_t2i_web/static/js/main.b28b2d3c.chunk.js.map",
     "runtime-main.js": "/deep_t2i_web/static/js/runtime-main.7f015b04.js",
     "runtime-main.js.map": "/deep_t2i_web/static/js/runtime-main.7f015b04.js.map",
     "static/css/2.af3c1da9.chunk.css": "/deep_t2i_web/static/css/2.af3c1da9.chunk.css",
     "static/js/2.bb3f707b.chunk.js": "/deep_t2i_web/static/js/2.bb3f707b.chunk.js",
     "static/js/2.bb3f707b.chunk.js.map": "/deep_t2i_web/static/js/2.bb3f707b.chunk.js.map",
     "index.html": "/deep_t2i_web/index.html",
-    "precache-manifest.84fc3097499fa4ec348897360a1d7339.js": "/deep_t2i_web/precache-manifest.84fc3097499fa4ec348897360a1d7339.js",
+    "precache-manifest.bb3dc53e18e4536f2387e9ecc7cc2655.js": "/deep_t2i_web/precache-manifest.bb3dc53e18e4536f2387e9ecc7cc2655.js",
     "service-worker.js": "/deep_t2i_web/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/deep_t2i_web/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/deep_t2i_web/static/css/main.5ecd60fb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.bb3f707b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.642fb4d9.chunk.js"
+    "static/js/main.b28b2d3c.chunk.js"
   ]
 }
