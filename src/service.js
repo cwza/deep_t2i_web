@@ -10,7 +10,7 @@ const getImg = async (token, mode, cap) => {
   let url = ""
   switch (server) {
     case Server.mock:
-      return Promise.resolve(`./${mode}_mock.jpg`)
+      return Promise.resolve(`${process.env.PUBLIC_URL}/${mode}_mock.jpg`)
     case Server.dev:
       url = "http://127.0.0.1:5000/entry"
       break
