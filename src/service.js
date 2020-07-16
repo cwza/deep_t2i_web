@@ -12,7 +12,7 @@ const getImg = async (token, mode, cap) => {
     case Server.mock:
       return Promise.resolve(`${process.env.PUBLIC_URL}/${mode}_mock.jpg`)
     case Server.dev:
-      url = "http://127.0.0.1:5000/entry"
+      url = "http://127.0.0.1:5000"
       break
     case Server.prod:
       url = prodUrl
@@ -20,7 +20,9 @@ const getImg = async (token, mode, cap) => {
     default:
       throw Error(`No such server: ${server}`)
   }
-  let data = {token, mode, cap}
+  url += `/${mode}`
+
+  let data = {token, cap}
   const res = await fetch(url, {
     method: 'POST',
     body: JSON.stringify(data),

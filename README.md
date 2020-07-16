@@ -5,10 +5,12 @@
 * Generate anime face image by machine. You can specify hair color and eye color.
 * Generate bird image by machine. You can specify any string that describe the bird.
 
+<img src="web.jpg">
+
 ## Environment Variables
 ```
 REACT_APP_SERVER=mock or dev or prod(mock: no server use local image files, dev: use local dev server, prod: use production server)
-REACT_APP_PROD_URL=Your server url
+REACT_APP_PROD_URL=deployed url of production server
 REACT_APP_CHECK_RECAPTCHA=true or false to specify whether to check recaptcha at client side.
 REACT_APP_RECAPTCHA_SITEKEY=Your recaptcha site key
 ```
