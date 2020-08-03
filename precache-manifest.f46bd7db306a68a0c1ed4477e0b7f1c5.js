@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b050cdebb0f6c377ea22bc6b626c76dc",
+    "revision": "0e3f0d65a4103635d0aff9ea59ac0068",
     "url": "/deep_t2i_web/index.html"
   },
   {
-    "revision": "a74c267fd582174f2fbc",
+    "revision": "9f4d5b701403d3241ac8",
     "url": "/deep_t2i_web/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "758968fc4ad500865631",
+    "revision": "aff82e0fb2b795b634f8",
     "url": "/deep_t2i_web/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "a74c267fd582174f2fbc",
-    "url": "/deep_t2i_web/static/js/2.270e9534.chunk.js"
+    "revision": "9f4d5b701403d3241ac8",
+    "url": "/deep_t2i_web/static/js/2.ab84c32a.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/deep_t2i_web/static/js/2.270e9534.chunk.js.LICENSE.txt"
+    "url": "/deep_t2i_web/static/js/2.ab84c32a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "758968fc4ad500865631",
-    "url": "/deep_t2i_web/static/js/main.c45fbfa2.chunk.js"
+    "revision": "aff82e0fb2b795b634f8",
+    "url": "/deep_t2i_web/static/js/main.a20a78ed.chunk.js"
   },
   {
     "revision": "7bacf8e3ea773a2cad17",
