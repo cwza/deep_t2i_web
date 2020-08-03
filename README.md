@@ -1,6 +1,9 @@
 # Deep_t2i Demo Client Site
 > Client side code of https://github.com/cwza/deep_t2i/tree/master/server
 
+## Web Interface
+https://cwza.github.io/deep_t2i_web/
+
 ## Functionality
 * Generate anime face image by machine. You can specify hair color and eye color.
 * Generate bird image by machine. You can specify any string that describe the bird.
