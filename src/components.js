@@ -124,7 +124,12 @@ const Birds = () => {
   return (
     <Container>
       <Row><h2>Birds</h2></Row>
-      <Row><h4>Generate a bird by machine. You can specify any string that describe a bird.</h4></Row>
+      <Row>
+        <h4>Generate a bird by machine. You can specify any string that describe a bird.</h4>
+        <Alert variant='warning'>
+          Note: This is a hard task, so the results are not always good. You need to try more and choose a better one.
+        </Alert>
+      </Row>
       <Row>
         <Form.Control as="textarea" rows="2" value={cap} onChange={handleFormChange} />
       </Row>
